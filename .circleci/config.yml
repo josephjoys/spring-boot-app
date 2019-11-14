@@ -5,7 +5,7 @@ jobs:
     working_directory: ~/spring-boot-app
 
     docker:
-      - image: circleci/openjdk:8-jdk-stretch\
+      - image: circleci/openjdk:8-jdk-stretch
 
     steps:
 
